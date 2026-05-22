@@ -1,0 +1,10 @@
+css
+
+- thay đổi màu sắc, chữ, v.v
+- phần các trang tin tức theo từng thể loại có thể hỏi thay đổi hiển thị (ví dụ từ 4 tin tức trên 1 hàng xuống còn 3 tin tức trên 1 hàng)
+
+
+js
+
+- ràng buộc bắt buộc nhập thông tin (ví dụ không nhập sẽ hiển thị thông báo yêu cầu nhập)
+- ô nhập tên có thể ràng buộc chỉ cho nhập chữ không cho nhập số
