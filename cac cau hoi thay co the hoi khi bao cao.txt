@@ -8,3 +8,4 @@ js
 
 - ràng buộc bắt buộc nhập thông tin (ví dụ không nhập sẽ hiển thị thông báo yêu cầu nhập)
 - ô nhập tên có thể ràng buộc chỉ cho nhập chữ không cho nhập số
+- phần bình luận: ví dụ nếu không nhập tên nhưng có nhập bình luận thì sẽ hiển thị là "Người dùng ẩn danh" kèm với nội dung bình luận
