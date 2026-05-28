@@ -1,1 +1,1 @@
-Địa chỉ website: https://quyphamthienphudev.github.io/bongda2026/
+Địa chỉ website: https://bongda2026.vercel.app
