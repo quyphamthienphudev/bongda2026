@@ -32,7 +32,7 @@ document
             },
             function (error) {
 
-                alert("Gửi thất bại!");
+                alert("Dịch vụ email tạm thời không khả dụng, bạn đọc vui lòng quay lại sau.");
             }
         );
 
